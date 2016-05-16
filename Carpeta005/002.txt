@@ -1,0 +1,3 @@
+/Carpeta005/002.txt
+
+Solo saldrá en la rama "branch001"
